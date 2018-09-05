@@ -4,3 +4,8 @@
 
 print ("hello my fuking world")
 print ("XD")
+
+while(True):
+	p = inst("Que tal")
+	if(p == "que te den")
+		break
